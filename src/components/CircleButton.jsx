@@ -16,7 +16,7 @@ CircleButton.propTypes = {
   style: shape(),
 };
 
-CircleButton.defaultPropos = {
+CircleButton.defaultProps = {
   style: null,
 };
 
